@@ -1,0 +1,8 @@
+{
+  "name": "vite-optimizedeps-repro",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "vite": "^7.3.6"
+  }
+}
